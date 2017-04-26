@@ -1,3 +1,6 @@
 Je suis le fichier A.
 
 j’ajoute la feature a.
+Je vais créer un conflit…
+
+logs
