@@ -1,0 +1,5 @@
+Je suis le fichier C.
+
+Log
+
+//useless code
