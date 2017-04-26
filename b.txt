@@ -1,1 +1,3 @@
 Je suis le fichier B.
+
+Simulate merge of C feature.
